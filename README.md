@@ -96,17 +96,15 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manishpg83&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishpg83&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishpg83)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishpg83&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-### Hi there 👋
 
-<!--
+
+<!-- ### Hi there 👋
 **manishpg83/manishpg83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
