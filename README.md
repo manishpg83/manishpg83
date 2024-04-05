@@ -92,8 +92,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadyshalaby&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadyshalaby&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishpg83&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manishpg83&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishpg83&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -102,12 +102,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishpg83&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-
-	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishpg83&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img alt="Manish Bhuva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nadyshalaby&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</p>
 
 
 ### Hi there 👋
