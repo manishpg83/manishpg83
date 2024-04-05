@@ -1,13 +1,11 @@
 
 <div align="center">
-	<img alt="Moamen Eltouny's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Nady+Shalaby's+GitHub&center=trueheight=55">
+	<img alt="Manish Bhuva's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Manish+Bhuva's+GitHub&center=trueheight=55">
 </div>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/nady-shalaby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	<a href="https://twitter.com/Taekunger"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-	<br><br>
-	<a href="https://www.credly.com/badges/717546ee-34fb-40ca-9d34-e14956ee7c78"><img width="150" src="https://images.credly.com/size/340x340/images/206f12e1-33a5-4485-b1be-57e3a28b6ed1/Cloud_App_-_Master_Award_-_Stu_V2.png"></a>
+	<a href="https://www.linkedin.com/in/magentoexpert1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://twitter.com/manish_bhuva"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p><br>
 
 
@@ -16,7 +14,7 @@
 ### 🚀 Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -99,7 +97,7 @@
 </p>
 
 <p align="center">
-	<img alt="Nady Shalaby's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nadyshalaby&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+	<img alt="Manish Bhuva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nadyshalaby&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p>
 
 
