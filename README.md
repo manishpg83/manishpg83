@@ -36,7 +36,7 @@
 ### 🧩 Libraries & Framework
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Yii](https://img.shields.io/badge/yii-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Yii](https://img.shields.io/badge/yii-%2396C40E.svg?style=for-the-badge&logo=yii&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
